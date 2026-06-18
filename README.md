@@ -24,6 +24,7 @@ whole stack with a single command.
 - **Persist**: writes labelled rows to PostgreSQL with an index on `date`.
 - **Visualize &amp; alert**: provisioned Grafana dashboard with anomaly table,
   spend-by-cloud and spend-by-service trends, plus an alert rule.
+<img width="1469" height="801" alt="image" src="https://github.com/user-attachments/assets/a8fe5cd7-32c1-4456-a1f3-74e360c03f67" />
 
 See [`docs/architecture.md`](docs/architecture.md) for the full data-flow
 diagram, schema, and design rationale.
